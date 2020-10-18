@@ -1,8 +1,10 @@
 ---
 title: "Main"
-author: "Luke McDonald"
+author: "Lucian R. McDonald"
 date: "10/18/2020"
-output: html_document
+output: 
+  html_document: 
+    keep_md: true
 ---
 
 ```{r setup, include=FALSE}
