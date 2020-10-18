@@ -9,4 +9,13 @@ output:
 
 
 
+# This is a test
 
+
+```r
+x = 1:10
+y = x * x
+plot(x~y)
+```
+
+![](Main_files/figure-html/unnamed-chunk-1-1.png)<!-- -->
