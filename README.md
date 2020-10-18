@@ -1,3 +1,3 @@
 # mvcs
 
-# This is a line from Rstudio
+# This project serves to communicate the results of ongoing research.
